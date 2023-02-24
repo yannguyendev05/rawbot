@@ -1,3 +1,3 @@
-function testinject(){
-alert('hi');
-}
+function showalert1() {
+        alert('hi');
+    }
