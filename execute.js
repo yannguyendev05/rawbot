@@ -1,1 +1,3 @@
+function testinject(){
 alert('hi');
+}
